@@ -1,14 +1,14 @@
 highlighter: rouge
 markdown: kramdown
 rdiscount:
-  extensions: [smart]
+extensions: [smart]
 permalink: :title.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://pomy.github.io/vitae
-author: Fábio Madeira
+author: Abdul Rahman
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
@@ -16,10 +16,10 @@ author: Fábio Madeira
 baseurl: /vitae/
 title: Abdul Rahman's Resume
 name: Abdul Rahman  
-email: pomy@me.com
+email: pomy@outlook.com
 email_full: mailto:pomy@outlook.com
-website: github.io/pomy
-website_full: https://pomy.github.io/
+website: http://pomy.pk
+website_full: http://pomy.pk
 github: pomy
 twitter: pomy
 tel: +92 0333 9948967
