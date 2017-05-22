@@ -22,14 +22,14 @@ website: github.io/pomy
 website_full: https://pomy.github.io/
 github: pomy
 twitter: pomy
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+tel: +92 0333 9948967
+tel_full: tel:+923339948967
+google_maps: ''
+address: p-457, ameen park, street no. 2
+postcode: 38090
+city: Faisalabad
+country: Pakistan
+google_analytics: UA-99396082-1
 
 # needed for travis-ci build
 exclude: [vendor]
